@@ -1,8 +1,8 @@
 {
   "version": "2.0.6.51",
   "url": "https://github.com/snorsxxx-cell/Repository-name-comercia-pos-update/releases/download/v2.0.6.51/ComerciaPOS_Setup_2.0.6.51.exe",
-  "sha256": "AQUI_VA_EL_SHA256_DEL_INSTALADOR",
-  "publisherThumbprint": "AQUI_VA_LA_HUELLA_DEL_CERTIFICADO",
+  "sha256": "12345",
+  "publisherThumbprint": "12345",
   "notes": "Mejoras de estabilidad y correcciones generales.",
   "sizeMb": 85.0,
   "requiresRestart": true
