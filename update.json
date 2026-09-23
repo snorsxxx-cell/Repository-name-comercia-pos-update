@@ -1,9 +1,9 @@
 {
-  "version": "2.1.26",
+  "version": "2.1.27",
   "url": "https://github.com/snorsxxx-cell/Repository-name-comercia-pos-update/releases/download/2.1.26/ComerciaPOS_Setup_2.1.26.0.exe",
   "sha256": "aac4d0af7b09995c32354e7f9ba9559aa212806e65fe143bd1a28e21c3218650",
   "publisherThumbprint": "",
-  "notes": "Comercia POS 2.1.26 · versión estable con mejoras de estabilidad, diagnóstico y actualización integrada.",
+  "notes": "Comercia POS 2.1.27 · versión estable con mejoras de estabilidad, diagnóstico y actualización integrada.",
   "sizeMb": 226.0,
   "requiresRestart": true,
   "minimumDisplaySeconds": 30,
