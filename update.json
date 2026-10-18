@@ -1,9 +1,9 @@
 {
-  "version": "2.1.63",
-  "url": "https://github.com/snorsxxx-cell/Repository-name-comercia-pos-update/releases/download/2.1.63/ComerciaPOS_Setup_2.1.63.0.exe",
-  "sha256": "8a3a5deaf6be8e68abd9580c45d08ddfcaf4af7068bf0fcc74b3fef008a5345e",
+  "version": "3.0.0",
+  "url": "https://github.com/snorsxxx-cell/Repository-name-comercia-pos-update/releases/download/3.0.0/ComerciaPOS_Setup_3.0.exe",
+  "sha256": "da49d1a9e48c41d2f58a6fdcf7f978b5e7967921145f1017785b40759933da17",
   "publisherThumbprint": "",
-  "notes": "Comercia POS 2.1.63 · versión estable con mejoras de estabilidad, diagnóstico y actualización integrada.",
+  "notes": "Comercia POS 3.0.0 · versión estable con mejoras de estabilidad, diagnóstico y actualización integrada.",
   "sizeMb": 226.0,
   "requiresRestart": true,
   "minimumDisplaySeconds": 30,
