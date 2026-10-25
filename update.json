@@ -1,9 +1,9 @@
 {
-  "version": "3.0.1",
+  "version": "3.0.31",
   "url": "https://github.com/snorsxxx-cell/Repository-name-comercia-pos-update/releases/download/3.0.31/ComerciaPOS_Setup_3.0.exe",
   "sha256": "63a02d1ef27bda7602941c34cb65e2c70cd31a90bed5af17bf00f8fc8a86cd2a",
   "publisherThumbprint": "",
-  "notes": "Comercia POS 3.0.1 · versión estable con mejoras de estabilidad, diagnóstico y actualización integrada.",
+  "notes": "Comercia POS 3.0.31 · versión estable con mejoras de estabilidad, diagnóstico y actualización integrada.",
   "sizeMb": 226.0,
   "requiresRestart": true,
   "minimumDisplaySeconds": 30,
