@@ -1,7 +1,7 @@
 {
-  "version": "3.1.43",
-  "url": "https://github.com/snorsxxx-cell/Repository-name-comercia-pos-update/releases/download/3.1.43/ComerciaPOS_Setup_3.1.43.exe",
-  "sha256": "eaad70b06404475a07932611f34fb81634943a6ea52f127b9d7a1866c66bc9d8",
+  "version": "3.1.45",
+  "url": "https://github.com/snorsxxx-cell/Repository-name-comercia-pos-update/releases/download/3.1.45/ComerciaPOS_Setup_3.1.45.exe",
+  "sha256": "300f35db229d3c7c5f79956a1e0bdf594c2d398a36386a6d7f3329024e3f11a5",
   "publisherThumbprint": "",
   "notes": "Nuevos precios personalizados, control de productos por número de serie e IMEI, captura inteligente de identificadores, códigos de productos en tickets, mejoras en licencias y estabilidad general.",
   "sizeMb": 226.0,
